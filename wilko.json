@@ -45,9 +45,10 @@
 	"isPage6Activate": false,
 	
 	//cpa image banner
-    "Visibility_image_cpa":false,
-    "Url_Image_Cpa":"https://www.google.com/",
-    "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+    "Visibility_image_cpa":true,
+    "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
+    "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
+
 
 	"URLs": [
 
